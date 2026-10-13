@@ -1,3 +1,6 @@
-a=input("Enter your Name:")
-print("Hello",a)
-print("I m Finally In Github")
+name = input("Enter your name: ")
+
+print("Hello", name)
+print("Welcome to my GitHub journey!")
+print("I am Pushkar Patil.")
+print("Dattebayo.")
